@@ -1,4 +1,4 @@
-# reverse_shell.py
+# app.py
 import socket
 import subprocess
 import os
